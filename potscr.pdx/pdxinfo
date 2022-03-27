@@ -1,0 +1,9 @@
+name=potscr
+author=nanobot567
+description=potatoscript for playdate
+bundleID=com.nano.potscrpdx
+version=1.0
+buildNumber=211
+imagePath=SystemAssets
+pdxversion=10900
+buildtime=701721812
