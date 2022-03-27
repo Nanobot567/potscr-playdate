@@ -5,8 +5,9 @@ potatoscript for playdate
 1. copy the potatoscript(s) into src/potscr
 2. build the .pdx using pdc
 3. run potscr.pdx on your playdate
-4. select the potatoscript you would like to run
-5. press A to run the potatoscript
+4. go to menu/select script
+5. select the potatoscript you would like to run
+6. press A to run the potatoscript
 
 ### to-do
 - input/variable support
