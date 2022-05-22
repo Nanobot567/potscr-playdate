@@ -11,6 +11,8 @@ potatoscript for playdate
 7. if the crank is undocked, then you can use the crank to do step-by-step potatoscript execution.
 
 ### to-do
+- add toggle for bottom left indicator
+- better ui
 - input/variable support
 - printing 2+ strings on one line (using %)
 - a script editor (maybe)

@@ -20,10 +20,12 @@ stored = ""
 char = ""
 inputpotscr = ""
 textsentnum = 0
+waitingForInput = false
+gotInput = ""
 
 getmetatable('').__index = function(str,i) return string.sub(str,i,i) end
 
-drawBar("potscr.pdx v2.0")
+drawBar("potscr.pdx v2.1")
 
 
 menu = playdate.getSystemMenu()
@@ -74,7 +76,7 @@ end
 
 function clearAndRedraw()
     gfx.clear()
-    drawBar("potscr.pdx v1.0")
+    drawBar("potscr.pdx v2.1")
 end
 
 function playdate.keyboard.textChangedCallback()

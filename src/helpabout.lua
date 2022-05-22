@@ -20,7 +20,7 @@ end
 
 function about()
     gfx.clear()
-    drawBar("potatoscript v2.0: \"CtM\"")
+    drawBar("potatoscript v2.1: \"CtM\"")
 
     gfx.drawText("*ABOUT*",175,0)
     gfx.drawText("*potatoscript is what again?*",0,35)
