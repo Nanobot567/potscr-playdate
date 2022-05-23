@@ -2,6 +2,6 @@ name=potscr
 author=nanobot567
 description=potatoscript for playdate
 bundleID=com.nano.potscrpdx
-version=1.0
+version=2.1
 buildNumber=272
 imagePath=SystemAssets
